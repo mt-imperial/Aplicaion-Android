@@ -35,6 +35,8 @@ SOFTWARE LICENSE
 this time I could feed myself with youtube videos so I could make and improve the methods of the application here I leave the link:
 
 ```
+link
+=========
 ```
 https://www.youtube.com/watch?v=hF_m7B6RyhU
 
@@ -42,6 +44,7 @@ https://www.youtube.com/watch?v=hF_m7B6RyhU
 
 ---------
 MEMBERS OF THE PROJECT
+=============
 ```
 
 Luis Alejandro Andres Carcamo Espinoza
